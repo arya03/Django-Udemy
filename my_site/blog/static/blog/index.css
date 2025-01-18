@@ -62,7 +62,8 @@
 #about {
   text-align: center;
   padding: 3rem;
-  background-color: #e48900;
+  background-color: #390281;
+  color: white;
   margin-top: 5rem;
 }
 
@@ -72,5 +73,4 @@
 
 #about p {
   font-size: 1.5rem;
-  color: #353535;
 }
